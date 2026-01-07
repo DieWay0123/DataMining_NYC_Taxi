@@ -52,3 +52,6 @@ uv run python run run_pipeline.py --exp exp_k60 --clustering-mode full_partial_f
 ```bash
 uv run streamlit run app.py
 ```
+
+<img width="1816" height="860" alt="image" src="https://github.com/user-attachments/assets/26124318-4d03-4de8-9d52-bd548b4add30" />
+
