@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# venv
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data & artifacts (BIG)
+data/raw/
+data/features/
+artifacts/
+*.parquet
+*.joblib
+*.csv
+
+# Logs
+*.log
